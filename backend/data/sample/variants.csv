@@ -1,0 +1,13 @@
+variant_identifier,gene_symbol,protein_change,dbsnp_id,genome_assembly,chromosome,position,reference_allele,alternate_allele,clinical_or_research_annotation,source_identifier,associations
+EGFR p.L858R,EGFR,p.L858R,rs121434568,GRCh38,7,55191822,T,G,Sensitising EGFR kinase-domain mutation (exon 21).,dbSNP:rs121434568,CBM-017|nsclc|predictive
+EGFR p.T790M,EGFR,p.T790M,rs121434569,GRCh38,7,55181378,C,T,Acquired resistance mutation to first-generation EGFR inhibitors (exon 20).,dbSNP:rs121434569,CBM-018|nsclc|predictive
+BRAF p.V600E,BRAF,p.V600E,rs113488022,GRCh38,7,140753336,A,T,Activating BRAF kinase-domain mutation.,dbSNP:rs113488022,CBM-024|colorectal|predictive;CBM-024|nsclc|predictive
+KRAS p.G12C,KRAS,p.G12C,rs121913530,GRCh38,12,25245351,C,A,KRAS codon 12 glycine-to-cysteine mutation.,dbSNP:rs121913530,CBM-021|nsclc|predictive;CBM-022|colorectal|predictive
+KRAS p.G12D,KRAS,p.G12D,rs121913529,GRCh38,12,25245350,C,T,KRAS codon 12 glycine-to-aspartate mutation.,dbSNP:rs121913529,CBM-022|colorectal|predictive
+PIK3CA p.H1047R,PIK3CA,p.H1047R,rs121913279,GRCh38,3,179234297,A,G,PIK3CA kinase-domain hotspot mutation.,dbSNP:rs121913279,CBM-007|breast|predictive
+PIK3CA p.E545K,PIK3CA,p.E545K,rs104886003,GRCh38,3,179218303,G,A,PIK3CA helical-domain hotspot mutation.,dbSNP:rs104886003,CBM-007|breast|predictive
+TP53 p.R175H,TP53,p.R175H,rs28934578,GRCh38,17,7675088,C,T,TP53 DNA-binding-domain hotspot mutation.,dbSNP:rs28934578,CBM-009|breast|prognostic
+CHEK2 c.1100delC,CHEK2,p.T367Mfs*15,rs555607708,,,,,,Truncating CHEK2 founder variant; genomic coordinates not curated in this sample.,dbSNP:rs555607708,CBM-011|breast|risk
+ESR1 p.Y537S,ESR1,p.Y537S,,,,,,,Acquired ligand-binding-domain mutation in endocrine-resistant disease; coordinates not curated.,,CBM-008|breast|predictive
+ESR1 p.D538G,ESR1,p.D538G,,,,,,,Acquired ligand-binding-domain mutation in endocrine-resistant disease; coordinates not curated.,,CBM-008|breast|predictive
+NRAS p.Q61K,NRAS,p.Q61K,,,,,,,Activating NRAS codon 61 mutation; coordinates not curated.,,CBM-023|colorectal|predictive

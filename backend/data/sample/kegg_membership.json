@@ -1,0 +1,137 @@
+{
+  "hsa04012": [
+    "BRAF",
+    "EGFR",
+    "ERBB2",
+    "KRAS",
+    "NRAS",
+    "PIK3CA"
+  ],
+  "hsa04010": [
+    "BRAF",
+    "EGFR",
+    "ERBB2",
+    "KRAS",
+    "MET",
+    "NRAS",
+    "NTRK1",
+    "NTRK2",
+    "RET",
+    "TP53"
+  ],
+  "hsa04151": [
+    "BRCA1",
+    "EGFR",
+    "ERBB2",
+    "KRAS",
+    "MET",
+    "NRAS",
+    "NTRK1",
+    "NTRK2",
+    "PIK3CA",
+    "PTEN",
+    "RET",
+    "STK11",
+    "TP53"
+  ],
+  "hsa04115": [
+    "ATM",
+    "CHEK2",
+    "PTEN",
+    "TP53"
+  ],
+  "hsa03440": [
+    "ATM",
+    "BRCA1",
+    "BRCA2",
+    "CHEK2",
+    "MLH1",
+    "PALB2",
+    "TP53"
+  ],
+  "hsa03430": [
+    "MLH1",
+    "MSH2"
+  ],
+  "hsa04310": [
+    "APC",
+    "TP53"
+  ],
+  "hsa04915": [
+    "EGFR",
+    "ESR1",
+    "KRAS",
+    "NRAS",
+    "PGR",
+    "PIK3CA"
+  ],
+  "hsa05235": [
+    "ALK",
+    "CD274",
+    "EGFR",
+    "EML4",
+    "KRAS",
+    "NRAS",
+    "PIK3CA",
+    "PTEN"
+  ],
+  "hsa04520": [
+    "CDH1",
+    "EGFR",
+    "ERBB2",
+    "MET"
+  ],
+  "hsa05224": [
+    "APC",
+    "BRAF",
+    "BRCA1",
+    "BRCA2",
+    "EGFR",
+    "ERBB2",
+    "ESR1",
+    "KRAS",
+    "NRAS",
+    "PGR",
+    "PIK3CA",
+    "PTEN",
+    "TP53"
+  ],
+  "hsa05223": [
+    "ALK",
+    "BRAF",
+    "EGFR",
+    "EML4",
+    "ERBB2",
+    "KRAS",
+    "MET",
+    "NRAS",
+    "PIK3CA",
+    "RET",
+    "TP53"
+  ],
+  "hsa05210": [
+    "APC",
+    "BRAF",
+    "EGFR",
+    "KRAS",
+    "MLH1",
+    "MSH2",
+    "NRAS",
+    "PIK3CA",
+    "TP53"
+  ],
+  "hsa05215": [
+    "AR",
+    "BRAF",
+    "EGFR",
+    "ERBB2",
+    "ERG",
+    "KLK3",
+    "KRAS",
+    "NRAS",
+    "PIK3CA",
+    "PTEN",
+    "TMPRSS2",
+    "TP53"
+  ]
+}

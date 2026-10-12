@@ -1,0 +1,100 @@
+biomarker_code,cancer_code,biomarker_role,pmid,evidence_type,source_name,source_record_id,consistency_annotation,retrieved_at,source_url,evidence_summary
+CBM-001,breast,risk,7545954,patient_cohort,PubMed,,supports,2026-10-11,,Positional cloning in breast/ovarian cancer families identified BRCA1 with germline mutations segregating with disease.
+CBM-001,breast,predictive,28578601,randomized_clinical_trial,PubMed,,supports,2026-10-11,,OlympiAD: olaparib prolonged progression-free survival versus standard therapy in germline BRCA-mutated HER2-negative metastatic breast cancer.
+CBM-001,breast,predictive,34081848,randomized_clinical_trial,PubMed,,supports,2026-10-11,,OlympiA: adjuvant olaparib improved invasive disease-free survival in germline BRCA1/2-mutated high-risk early breast cancer.
+CBM-002,breast,risk,8524414,patient_cohort,PubMed,,supports,2026-10-11,,Identification of BRCA2 with germline mutations in breast cancer families.
+CBM-002,breast,predictive,28578601,randomized_clinical_trial,PubMed,,supports,2026-10-11,,OlympiAD enrolled germline BRCA1 or BRCA2 carriers; olaparib prolonged progression-free survival.
+CBM-002,breast,predictive,34081848,randomized_clinical_trial,PubMed,,supports,2026-10-11,,OlympiA enrolled germline BRCA1 or BRCA2 carriers; adjuvant olaparib improved invasive disease-free survival.
+CBM-002,prostate,predictive,26510020,clinical_trial,PubMed,,supports,2026-10-11,,TOPARP-A: high response rate to olaparib among patients with DNA-repair defects including BRCA2.
+CBM-002,prostate,predictive,32343890,randomized_clinical_trial,PubMed,,supports,2026-10-11,,PROfound: olaparib improved imaging-based progression-free survival in men with BRCA1/BRCA2/ATM alterations.
+CBM-002,prostate,risk,27433846,patient_cohort,PubMed,,supports,2026-10-11,,Germline DNA-repair mutations found in 11.8% of men with metastatic prostate cancer; BRCA2 most frequent.
+CBM-002,prostate,risk,26000489,genomic_profiling,PubMed,,,2026-10-11,,Clinical sequencing of metastatic castration-resistant prostate cancer documented BRCA2 alterations among DNA-repair aberrations.
+CBM-003,breast,prognostic,3798106,patient_cohort,PubMed,,supports,2026-10-11,,HER-2/neu amplification correlated with shorter time to relapse and overall survival in node-positive patients.
+CBM-003,breast,predictive,11248153,randomized_clinical_trial,PubMed,,supports,2026-10-11,,Adding trastuzumab to chemotherapy improved outcomes in HER2-overexpressing metastatic breast cancer.
+CBM-003,breast,predictive,29846122,clinical_guideline,PubMed,,supports,2026-10-11,,ASCO/CAP guideline defines HER2 testing to select patients for HER2-targeted therapy.
+CBM-003,breast,predictive,23000897,genomic_profiling,NCI GDC (TCGA),TCGA-BRCA,,2026-10-11,https://portal.gdc.cancer.gov/projects/TCGA-BRCA,TCGA breast cancer project characterised the HER2-enriched subtype and ERBB2 amplification.
+CBM-003,colorectal,predictive,27108243,clinical_trial,PubMed,,supports,2026-10-11,,HERACLES: trastuzumab plus lapatinib was active in HER2-positive KRAS exon 2 wild-type metastatic colorectal cancer.
+CBM-004,breast,predictive,21802721,meta_analysis,PubMed,,supports,2026-10-11,,EBCTCG patient-level meta-analysis: tamoxifen substantially reduced recurrence in ER-positive disease; ER status was the main predictive factor.
+CBM-004,breast,predictive,20404251,clinical_guideline,PubMed,,supports,2026-10-11,,ASCO/CAP guideline for ER/PR immunohistochemistry to identify candidates for endocrine therapy.
+CBM-005,breast,predictive,20404251,clinical_guideline,PubMed,,supports,2026-10-11,,ASCO/CAP guideline recommends PR testing alongside ER.
+CBM-005,breast,predictive,21802721,meta_analysis,PubMed,,mixed,2026-10-11,,EBCTCG meta-analysis: within ER-positive disease the benefit of tamoxifen did not depend materially on PR status.
+CBM-006,breast,prognostic,19436038,patient_cohort,PubMed,,supports,2026-10-11,,Ki67 index distinguished luminal B from luminal A tumours with different recurrence and survival outcomes.
+CBM-006,breast,prognostic,21960707,clinical_guideline,PubMed,,mixed,2026-10-11,,International working group recommendations highlight limited analytical standardisation of Ki67 despite prognostic associations.
+CBM-007,breast,predictive,31091374,randomized_clinical_trial,PubMed,,supports,2026-10-11,,SOLAR-1: alpelisib plus fulvestrant prolonged progression-free survival in PIK3CA-mutated HR-positive HER2-negative advanced breast cancer.
+CBM-008,breast,predictive,24185512,experimental,PubMed,,supports,2026-10-11,,ESR1 ligand-binding-domain mutations found in hormone-resistant metastatic disease conferred ligand-independent ER activity.
+CBM-008,breast,predictive,24185510,genomic_profiling,PubMed,,supports,2026-10-11,,Sequencing of metastatic tumours identified activating ESR1 mutations after endocrine therapy.
+CBM-009,breast,prognostic,20182602,review,PubMed,,supports,2026-10-11,,Review of TP53 mutations in human cancers including their prognostic associations.
+CBM-009,breast,prognostic,23000897,genomic_profiling,NCI GDC (TCGA),TCGA-BRCA,,2026-10-11,https://portal.gdc.cancer.gov/projects/TCGA-BRCA,TCGA documented frequent TP53 mutation particularly in basal-like tumours.
+CBM-010,breast,risk,25099575,patient_cohort,PubMed,,supports,2026-10-11,,Analysis of 154 PALB2 mutation-carrier families estimated substantially increased breast cancer risk.
+CBM-011,breast,risk,11967536,patient_cohort,PubMed,,supports,2026-10-11,,CHEK2 1100delC was enriched in familial breast cancer without BRCA1/BRCA2 mutations; estimated about two-fold risk increase.
+CBM-013,breast,prognostic,15591335,patient_cohort,PubMed,,supports,2026-10-11,,The 21-gene recurrence score quantified distant-recurrence risk in tamoxifen-treated node-negative patients (NSABP B-14).
+CBM-014,breast,prognostic,11823860,patient_cohort,PubMed,,supports,2026-10-11,,A gene-expression signature predicted short interval to distant metastases in young node-negative patients.
+CBM-014,breast,prognostic,27557300,randomized_clinical_trial,PubMed,,supports,2026-10-11,,MINDACT: patients with high clinical but low genomic risk had high 5-year distant-metastasis-free survival without chemotherapy.
+CBM-015,breast,prognostic,19204204,patient_cohort,PubMed,,supports,2026-10-11,,PAM50 subtype and risk-of-relapse score were prognostic in independent cohorts.
+CBM-015,breast,prognostic,10963602,genomic_profiling,PubMed,,,2026-10-11,,Gene-expression patterns defined intrinsic molecular subtypes of breast tumours.
+CBM-016,breast,diagnostic,26451490,genomic_profiling,NCI GDC (TCGA),TCGA-BRCA,supports,2026-10-11,https://portal.gdc.cancer.gov/projects/TCGA-BRCA,TCGA analysis of invasive lobular carcinoma confirmed CDH1 loss as its hallmark alteration.
+CBM-017,nsclc,predictive,15118073,patient_cohort,PubMed,,supports,2026-10-11,,Somatic EGFR kinase-domain mutations were present in gefitinib-responsive non-small-cell lung cancers.
+CBM-017,nsclc,predictive,15118125,patient_cohort,PubMed,,supports,2026-10-11,,EGFR mutations correlated with clinical response to gefitinib.
+CBM-017,nsclc,predictive,19692680,randomized_clinical_trial,PubMed,,supports,2026-10-11,,IPASS: gefitinib superior to carboplatin-paclitaxel in EGFR-mutation-positive patients and inferior in mutation-negative patients.
+CBM-017,nsclc,predictive,29151359,randomized_clinical_trial,PubMed,,supports,2026-10-11,,FLAURA: osimertinib prolonged progression-free survival versus earlier EGFR inhibitors in untreated EGFR-mutated NSCLC.
+CBM-017,nsclc,predictive,25079552,genomic_profiling,NCI GDC (TCGA),TCGA-LUAD,,2026-10-11,https://portal.gdc.cancer.gov/projects/TCGA-LUAD,TCGA lung adenocarcinoma profiling documented EGFR among recurrent driver alterations.
+CBM-018,nsclc,predictive,15737014,experimental,PubMed,,supports,2026-10-11,,T790M was detected in tumours with acquired resistance to gefitinib or erlotinib and conferred resistance in vitro.
+CBM-018,nsclc,predictive,15728811,experimental,PubMed,,supports,2026-10-11,,A second EGFR mutation (T790M) was identified at relapse on gefitinib and conferred drug resistance.
+CBM-019,nsclc,predictive,17625570,experimental,PubMed,,supports,2026-10-11,,EML4-ALK fusion identified in NSCLC and shown to be transforming.
+CBM-019,nsclc,predictive,20979469,clinical_trial,PubMed,,supports,2026-10-11,,Crizotinib produced high response rates in ALK-rearranged NSCLC.
+CBM-020,nsclc,predictive,22215748,patient_cohort,PubMed,,supports,2026-10-11,,ROS1 rearrangements defined a distinct molecular subset of lung cancers sensitive to crizotinib in a case.
+CBM-020,nsclc,predictive,25264305,clinical_trial,PubMed,,supports,2026-10-11,,Crizotinib showed marked antitumour activity in ROS1-rearranged NSCLC.
+CBM-020,nsclc,predictive,22327623,experimental,PubMed,,,2026-10-11,,Screening of lung cancers identified ROS1 fusions among other kinase fusions.
+CBM-021,nsclc,predictive,34096690,clinical_trial,PubMed,,supports,2026-10-11,,CodeBreaK 100: sotorasib produced durable responses in previously treated KRAS G12C-mutated NSCLC.
+CBM-021,nsclc,predictive,32955176,clinical_trial,PubMed,,supports,2026-10-11,,Phase 1 trial: sotorasib showed anticancer activity in KRAS G12C-mutant solid tumours including NSCLC.
+CBM-022,colorectal,predictive,16618717,patient_cohort,PubMed,,supports,2026-10-11,,KRAS mutation was associated with absence of response to cetuximab.
+CBM-022,colorectal,predictive,18946061,randomized_clinical_trial,PubMed,,supports,2026-10-11,,CO.17: cetuximab benefit was confined to patients with KRAS wild-type tumours.
+CBM-022,colorectal,predictive,18316791,randomized_clinical_trial,PubMed,,supports,2026-10-11,,Panitumumab efficacy was confined to KRAS wild-type metastatic colorectal cancer.
+CBM-022,colorectal,predictive,24024839,randomized_clinical_trial,PubMed,,supports,2026-10-11,,PRIME: patients with RAS mutations did not benefit from panitumumab-FOLFOX4.
+CBM-022,colorectal,predictive,22810696,genomic_profiling,NCI GDC (TCGA),TCGA-COAD,,2026-10-11,https://portal.gdc.cancer.gov/projects/TCGA-COAD,TCGA colorectal profiling documented frequent KRAS alterations.
+CBM-023,colorectal,predictive,24024839,randomized_clinical_trial,PubMed,,supports,2026-10-11,,PRIME extended RAS analysis: additional RAS (including NRAS) mutations predicted lack of panitumumab benefit.
+CBM-024,colorectal,predictive,31566309,randomized_clinical_trial,PubMed,,supports,2026-10-11,,BEACON CRC: encorafenib plus cetuximab (with or without binimetinib) improved overall survival in BRAF V600E-mutated colorectal cancer.
+CBM-024,nsclc,predictive,27080216,clinical_trial,PubMed,,supports,2026-10-11,,Dabrafenib showed antitumour activity in BRAF V600E-positive advanced NSCLC.
+CBM-025,nsclc,predictive,25971938,genomic_profiling,PubMed,,supports,2026-10-11,,MET exon 14 splicing alterations were found across tumour types and associated with responses to MET inhibitors.
+CBM-026,nsclc,predictive,22327624,experimental,PubMed,,supports,2026-10-11,,KIF5B-RET fusions identified in lung adenocarcinoma and shown to be oncogenic.
+CBM-026,nsclc,predictive,22327623,experimental,PubMed,,,2026-10-11,,Screening of lung cancers identified RET fusions among kinase fusions.
+CBM-026,nsclc,predictive,32846060,clinical_trial,PubMed,,supports,2026-10-11,,LIBRETTO-001: selpercatinib produced durable responses in RET fusion-positive NSCLC.
+CBM-027,nsclc,predictive,27718847,randomized_clinical_trial,PubMed,,supports,2026-10-11,,KEYNOTE-024: pembrolizumab improved survival over chemotherapy in NSCLC with PD-L1 tumour proportion score of at least 50%.
+CBM-027,nsclc,predictive,25428504,clinical_trial,PubMed,,supports,2026-10-11,,Responses to anti-PD-L1 antibody were associated with PD-L1 expression in tumour-infiltrating immune cells across cancers.
+CBM-028,nsclc,predictive,25765070,patient_cohort,PubMed,,supports,2026-10-11,,Higher nonsynonymous mutation burden was associated with clinical benefit from pembrolizumab in NSCLC.
+CBM-029,nsclc,predictive,29773717,patient_cohort,PubMed,,supports,2026-10-11,,STK11/LKB1 alterations were associated with inferior response to PD-1 axis inhibitors in KRAS-mutant lung adenocarcinoma.
+CBM-030,nsclc,predictive,29466156,clinical_trial,PubMed,,supports,2026-10-11,,Larotrectinib produced durable responses in TRK fusion-positive cancers across tumour types.
+CBM-030,colorectal,predictive,29466156,clinical_trial,PubMed,,supports,2026-10-11,,Larotrectinib produced durable responses in TRK fusion-positive cancers across tumour types (few colorectal cases).
+CBM-031,colorectal,predictive,26028255,clinical_trial,PubMed,,supports,2026-10-11,,Mismatch-repair-deficient colorectal cancers responded to pembrolizumab whereas proficient tumours did not.
+CBM-031,colorectal,predictive,28596308,clinical_trial,PubMed,,supports,2026-10-11,,Mismatch-repair deficiency predicted response to PD-1 blockade across 12 tumour types.
+CBM-031,colorectal,diagnostic,8505985,experimental,PubMed,,supports,2026-10-11,,Somatic mutations at simple repeated sequences defined a subset of colorectal carcinomas.
+CBM-031,colorectal,diagnostic,22810696,genomic_profiling,NCI GDC (TCGA),TCGA-COAD,,2026-10-11,https://portal.gdc.cancer.gov/projects/TCGA-COAD,TCGA identified a hypermutated colorectal subset largely associated with microsatellite instability.
+CBM-032,colorectal,risk,8128251,patient_cohort,PubMed,,supports,2026-10-11,,Germline MLH1 mutations were identified in hereditary non-polyposis colorectal cancer kindreds.
+CBM-032,colorectal,risk,8145827,patient_cohort,PubMed,,supports,2026-10-11,,An hMLH1 mutation was associated with hereditary non-polyposis colon cancer.
+CBM-033,colorectal,risk,8252616,experimental,PubMed,,supports,2026-10-11,,MSH2 cloned as a human mutator gene homologue and linked to hereditary non-polyposis colon cancer.
+CBM-033,colorectal,risk,8261515,patient_cohort,PubMed,,supports,2026-10-11,,Germline MSH2 mutations were found in hereditary non-polyposis colorectal cancer kindreds.
+CBM-034,colorectal,risk,1651562,patient_cohort,PubMed,,supports,2026-10-11,,Genes at the FAP locus on chromosome 5q21 were identified with mutations in affected patients.
+CBM-035,colorectal,monitoring,17060676,clinical_guideline,PubMed,,supports,2026-10-11,,ASCO tumour marker guideline supports serial CEA measurement for postoperative surveillance.
+CBM-035,colorectal,diagnostic,17060676,clinical_guideline,PubMed,,conflicting,2026-10-11,,ASCO tumour marker guideline does not recommend CEA as a screening test for colorectal cancer.
+CBM-036,colorectal,diagnostic,23408352,patient_cohort,PubMed,,mixed,2026-10-11,,PRESEPT: plasma methylated SEPT9 detected colorectal cancer in an asymptomatic screening population with limited sensitivity.
+CBM-037,colorectal,diagnostic,24645800,patient_cohort,PubMed,,supports,2026-10-11,,Multitarget stool DNA test had higher sensitivity than FIT for colorectal cancer but lower specificity.
+CBM-038,prostate,diagnostic,2442609,patient_cohort,PubMed,,supports,2026-10-11,,Serum PSA was elevated in prostate adenocarcinoma and correlated with clinical stage.
+CBM-038,prostate,diagnostic,1707140,patient_cohort,PubMed,,supports,2026-10-11,,Serum PSA measurement was evaluated as a screening test for prostate cancer.
+CBM-038,prostate,diagnostic,19297565,randomized_clinical_trial,PubMed,,mixed,2026-10-11,,PLCO: combined PSA and digital rectal examination screening did not reduce prostate cancer mortality over 7-10 years.
+CBM-038,prostate,diagnostic,19297566,randomized_clinical_trial,PubMed,,supports,2026-10-11,,ERSPC: PSA-based screening reduced prostate cancer mortality but with substantial overdiagnosis.
+CBM-039,prostate,diagnostic,16254181,experimental,PubMed,,supports,2026-10-11,,Recurrent fusions of TMPRSS2 with ETS transcription factor genes (ERG; ETV1) identified in prostate cancer.
+CBM-039,prostate,diagnostic,26544944,genomic_profiling,NCI GDC (TCGA),TCGA-PRAD,,2026-10-11,https://portal.gdc.cancer.gov/projects/TCGA-PRAD,TCGA molecular taxonomy placed ERG fusions as the most frequent primary prostate cancer subclass.
+CBM-040,prostate,diagnostic,10606244,experimental,PubMed,,supports,2026-10-11,,DD3 (PCA3) identified as prostate-specific and highly overexpressed in prostate cancer.
+CBM-040,prostate,diagnostic,12814669,patient_cohort,PubMed,,supports,2026-10-11,,Urinary DD3(PCA3) analysis was evaluated for prostate cancer diagnosis in men undergoing biopsy.
+CBM-041,prostate,predictive,25184630,patient_cohort,PubMed,,supports,2026-10-11,,AR-V7 detection in circulating tumour cells was associated with resistance to enzalutamide and abiraterone.
+CBM-042,prostate,prognostic,7795646,experimental,PubMed,,supports,2026-10-11,,AR gene amplification was found in tumours recurring during androgen-deprivation therapy.
+CBM-042,prostate,prognostic,26000489,genomic_profiling,PubMed,,,2026-10-11,,Clinical sequencing of metastatic castration-resistant prostate cancer documented frequent AR alterations.
+CBM-043,prostate,prognostic,9072974,experimental,PubMed,,,2026-10-11,,PTEN identified as a tumour suppressor mutated in prostate and other cancers.
+CBM-043,prostate,prognostic,20579941,genomic_profiling,PubMed,,,2026-10-11,,Integrative genomic profiling of prostate cancer documented PTEN pathway alterations.
+CBM-044,prostate,diagnostic,11926890,patient_cohort,PubMed,,supports,2026-10-11,,AMACR immunostaining distinguished prostate cancer from benign tissue.
+CBM-045,prostate,diagnostic,22610119,genomic_profiling,PubMed,,supports,2026-10-11,,Exome sequencing identified recurrent SPOP mutations defining a molecular subclass lacking ETS rearrangements.
+CBM-045,prostate,diagnostic,26544944,genomic_profiling,NCI GDC (TCGA),TCGA-PRAD,,2026-10-11,https://portal.gdc.cancer.gov/projects/TCGA-PRAD,TCGA molecular taxonomy included SPOP-mutant tumours as a subclass.
+CBM-046,prostate,predictive,29906450,genomic_profiling,PubMed,,,2026-10-11,,CDK12 biallelic loss defined a genomically distinct immunogenic class of advanced prostate cancer.
+CBM-047,prostate,predictive,26510020,clinical_trial,PubMed,,supports,2026-10-11,,TOPARP-A responders included patients with ATM alterations.
+CBM-047,prostate,predictive,32343890,randomized_clinical_trial,PubMed,,,2026-10-11,,PROfound cohort A combined BRCA1/BRCA2/ATM alterations; ATM-specific benefit is not separately curated here.
+CBM-047,prostate,risk,27433846,patient_cohort,PubMed,,supports,2026-10-11,,ATM was among germline DNA-repair genes mutated in men with metastatic prostate cancer.

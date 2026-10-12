@@ -1,0 +1,41 @@
+accession,name,function,organism,gene_symbol
+P38398,Breast cancer type 1 susceptibility protein,E3 ubiquitin-protein ligase with roles in DNA repair and checkpoint control.,Homo sapiens,BRCA1
+P51587,Breast cancer type 2 susceptibility protein,Mediates RAD51 recruitment during homologous recombination.,Homo sapiens,BRCA2
+Q86YC2,Partner and localizer of BRCA2,Scaffold linking BRCA1 and BRCA2 in homologous recombination.,Homo sapiens,PALB2
+O96017,Serine/threonine-protein kinase Chk2,DNA-damage checkpoint kinase.,Homo sapiens,CHEK2
+Q13315,Serine-protein kinase ATM,Activates the DNA damage response to double-strand breaks.,Homo sapiens,ATM
+P04626,Receptor tyrosine-protein kinase erbB-2,Co-receptor of the EGFR family (HER2).,Homo sapiens,ERBB2
+P03372,Estrogen receptor,Nuclear hormone receptor for oestradiol.,Homo sapiens,ESR1
+P06401,Progesterone receptor,Nuclear hormone receptor for progesterone.,Homo sapiens,PGR
+P46013,Proliferation marker protein Ki-67,Chromosome-periphery protein of proliferating cells.,Homo sapiens,MKI67
+P42336,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",Generates PIP3 downstream of growth-factor receptors.,Homo sapiens,PIK3CA
+P04637,Cellular tumor antigen p53,Stress-responsive transcription factor controlling cell-cycle arrest and apoptosis.,Homo sapiens,TP53
+P15941,Mucin-1,Cell-surface glycoprotein; shed ectodomain measured as CA 15-3.,Homo sapiens,MUC1
+P12830,Cadherin-1,Calcium-dependent cell adhesion protein (E-cadherin).,Homo sapiens,CDH1
+P00533,Epidermal growth factor receptor,Receptor tyrosine kinase for EGF-family ligands.,Homo sapiens,EGFR
+Q9UM73,ALK tyrosine kinase receptor,Receptor tyrosine kinase.,Homo sapiens,ALK
+Q9HC35,Echinoderm microtubule-associated protein-like 4,Microtubule-associated protein.,Homo sapiens,EML4
+P08922,Proto-oncogene tyrosine-protein kinase ROS,Orphan receptor tyrosine kinase.,Homo sapiens,ROS1
+P01116,GTPase KRas,Small GTPase in growth-factor signalling.,Homo sapiens,KRAS
+P01111,GTPase NRas,Small GTPase in growth-factor signalling.,Homo sapiens,NRAS
+P15056,Serine/threonine-protein kinase B-raf,MAP3K of the ERK cascade.,Homo sapiens,BRAF
+P08581,Hepatocyte growth factor receptor,Receptor tyrosine kinase for HGF.,Homo sapiens,MET
+P07949,Proto-oncogene tyrosine-protein kinase receptor Ret,Receptor tyrosine kinase for GDNF-family ligands.,Homo sapiens,RET
+Q9NZQ7,Programmed cell death 1 ligand 1,Immune-checkpoint ligand (PD-L1).,Homo sapiens,CD274
+Q15831,Serine/threonine-protein kinase STK11,LKB1 kinase activating AMPK.,Homo sapiens,STK11
+P04629,High affinity nerve growth factor receptor,TRKA receptor tyrosine kinase.,Homo sapiens,NTRK1
+Q16620,BDNF/NT-3 growth factors receptor,TRKB receptor tyrosine kinase.,Homo sapiens,NTRK2
+Q16288,NT-3 growth factor receptor,TRKC receptor tyrosine kinase.,Homo sapiens,NTRK3
+P40692,DNA mismatch repair protein Mlh1,Component of the MutL-alpha mismatch-repair complex.,Homo sapiens,MLH1
+P43246,DNA mismatch repair protein Msh2,Component of MutS mismatch-recognition complexes.,Homo sapiens,MSH2
+P25054,Adenomatous polyposis coli protein,Promotes beta-catenin degradation.,Homo sapiens,APC
+P06731,Carcinoembryonic antigen-related cell adhesion molecule 5,Glycoprotein measured in serum as CEA.,Homo sapiens,CEACAM5
+Q9UHD8,Septin-9,Filament-forming cytoskeletal GTPase.,Homo sapiens,SEPTIN9
+P07288,Prostate-specific antigen,Kallikrein serine protease secreted by prostate epithelium.,Homo sapiens,KLK3
+O15393,Transmembrane protease serine 2,Androgen-regulated serine protease.,Homo sapiens,TMPRSS2
+P11308,Transcriptional regulator ERG,ETS-family transcription factor.,Homo sapiens,ERG
+P10275,Androgen receptor,Nuclear hormone receptor for androgens.,Homo sapiens,AR
+P60484,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN",Dephosphorylates PIP3 and antagonises PI3K signalling.,Homo sapiens,PTEN
+Q9UHK6,Alpha-methylacyl-CoA racemase,Racemase of branched-chain fatty acyl-CoAs.,Homo sapiens,AMACR
+O43791,Speckle-type POZ protein,CUL3 ubiquitin-ligase substrate adaptor.,Homo sapiens,SPOP
+Q9NYV4,Cyclin-dependent kinase 12,RNA polymerase II CTD kinase.,Homo sapiens,CDK12

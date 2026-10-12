@@ -1,0 +1,59 @@
+biomarker_code,cancer_code,biomarker_role,source_status,association_description
+CBM-001,breast,risk,curated_literature,Inherited BRCA1 pathogenic variants confer high lifetime risk of breast cancer.
+CBM-001,breast,predictive,curated_literature,Germline BRCA1/2 mutation identifies patients eligible for PARP-inhibitor therapy.
+CBM-002,breast,risk,curated_literature,Inherited BRCA2 pathogenic variants confer high lifetime risk of breast cancer.
+CBM-002,breast,predictive,curated_literature,Germline BRCA1/2 mutation identifies patients eligible for PARP-inhibitor therapy.
+CBM-002,prostate,predictive,curated_literature,BRCA2 alterations are associated with response to PARP inhibition in metastatic castration-resistant prostate cancer.
+CBM-002,prostate,risk,curated_literature,Germline BRCA2 variants are enriched among men with metastatic prostate cancer.
+CBM-003,breast,prognostic,curated_literature,HER2 amplification is associated with shorter relapse-free and overall survival.
+CBM-003,breast,predictive,curated_literature,HER2-positive status selects patients for HER2-targeted therapy.
+CBM-003,colorectal,predictive,curated_literature,HER2 amplification in RAS wild-type metastatic colorectal cancer selects for dual HER2 blockade.
+CBM-004,breast,predictive,curated_literature,ER-positive status predicts benefit from endocrine therapy.
+CBM-005,breast,predictive,curated_literature,PR status is reported with ER to guide endocrine therapy decisions.
+CBM-006,breast,prognostic,curated_literature,Higher Ki-67 index is associated with worse outcome in luminal breast cancer.
+CBM-007,breast,predictive,curated_literature,PIK3CA mutation selects HR-positive advanced breast cancer for PI3K-alpha inhibition.
+CBM-008,breast,predictive,curated_literature,ESR1 ligand-binding-domain mutations are associated with resistance to oestrogen-deprivation therapy.
+CBM-009,breast,prognostic,curated_literature,TP53 mutation is associated with aggressive subtypes and poorer prognosis.
+CBM-010,breast,risk,curated_literature,Inherited PALB2 loss-of-function variants increase breast cancer risk.
+CBM-011,breast,risk,curated_literature,CHEK2 1100delC is a low/moderate-penetrance breast cancer susceptibility allele.
+CBM-012,breast,monitoring,pending_curation,Serum CA 15-3 is used in some settings to monitor metastatic disease. Supporting evidence has not yet been curated in this sample dataset.
+CBM-013,breast,prognostic,curated_literature,The 21-gene recurrence score estimates distant-recurrence risk in node-negative ER-positive disease.
+CBM-014,breast,prognostic,curated_literature,The 70-gene signature classifies early breast cancer by distant-metastasis risk.
+CBM-015,breast,prognostic,curated_literature,PAM50 intrinsic subtype and risk-of-relapse score are associated with outcome.
+CBM-016,breast,diagnostic,curated_literature,CDH1 loss is a defining molecular feature of invasive lobular carcinoma.
+CBM-017,nsclc,predictive,curated_literature,Sensitising EGFR mutations predict response to EGFR tyrosine-kinase inhibitors.
+CBM-018,nsclc,predictive,curated_literature,EGFR T790M is associated with acquired resistance to first-generation EGFR inhibitors.
+CBM-019,nsclc,predictive,curated_literature,ALK rearrangement predicts response to ALK inhibition.
+CBM-020,nsclc,predictive,curated_literature,ROS1 rearrangement predicts response to crizotinib.
+CBM-021,nsclc,predictive,curated_literature,KRAS G12C mutation selects patients for covalent KRAS G12C inhibitors.
+CBM-022,colorectal,predictive,curated_literature,KRAS exon 2 mutation predicts lack of benefit from anti-EGFR antibodies.
+CBM-023,colorectal,predictive,curated_literature,NRAS mutation predicts lack of benefit from anti-EGFR antibodies.
+CBM-024,colorectal,predictive,curated_literature,BRAF V600E selects patients for combined BRAF/EGFR-directed therapy.
+CBM-024,nsclc,predictive,curated_literature,BRAF V600E selects patients for BRAF-targeted therapy.
+CBM-025,nsclc,predictive,curated_literature,MET exon 14 skipping alterations are associated with clinical sensitivity to MET inhibitors.
+CBM-026,nsclc,predictive,curated_literature,RET fusions predict response to selective RET inhibition.
+CBM-027,nsclc,predictive,curated_literature,High tumour PD-L1 expression is associated with benefit from PD-1/PD-L1 blockade.
+CBM-028,nsclc,predictive,curated_literature,Higher nonsynonymous mutation burden is associated with response to PD-1 blockade.
+CBM-029,nsclc,predictive,curated_literature,STK11 alterations are associated with primary resistance to PD-1 axis inhibitors in KRAS-mutant lung adenocarcinoma.
+CBM-030,nsclc,predictive,curated_literature,NTRK fusions predict response to TRK inhibition (tumour-agnostic).
+CBM-030,colorectal,predictive,curated_literature,NTRK fusions predict response to TRK inhibition (tumour-agnostic; rare in colorectal cancer).
+CBM-031,colorectal,predictive,curated_literature,MSI-H/dMMR status predicts response to PD-1 blockade.
+CBM-031,colorectal,diagnostic,curated_literature,Microsatellite instability identifies a molecular subset of colorectal cancer with defective mismatch repair.
+CBM-032,colorectal,risk,curated_literature,Germline MLH1 variants cause Lynch syndrome with increased colorectal cancer risk.
+CBM-033,colorectal,risk,curated_literature,Germline MSH2 variants cause Lynch syndrome with increased colorectal cancer risk.
+CBM-034,colorectal,risk,curated_literature,Germline APC variants cause familial adenomatous polyposis.
+CBM-035,colorectal,monitoring,curated_literature,Serum CEA is used for postoperative surveillance of colorectal cancer.
+CBM-035,colorectal,diagnostic,curated_literature,Recorded to document guideline evidence against the use of serum CEA for colorectal cancer screening or diagnosis.
+CBM-036,colorectal,diagnostic,curated_literature,Plasma methylated SEPT9 has been evaluated as a blood-based screening test.
+CBM-037,colorectal,diagnostic,curated_literature,Multitarget stool DNA testing detects colorectal cancer in average-risk screening populations.
+CBM-038,prostate,diagnostic,curated_literature,Serum PSA is used in detection and screening of prostate cancer.
+CBM-039,prostate,diagnostic,curated_literature,TMPRSS2-ERG fusion defines the most common molecular subclass of prostate cancer.
+CBM-040,prostate,diagnostic,curated_literature,Urinary PCA3 has been evaluated to inform prostate biopsy decisions.
+CBM-041,prostate,predictive,curated_literature,Detection of AR-V7 in circulating tumour cells is associated with resistance to enzalutamide and abiraterone.
+CBM-042,prostate,prognostic,curated_literature,AR amplification is found in tumours recurring during androgen-deprivation therapy.
+CBM-043,prostate,prognostic,curated_literature,PTEN loss is widely reported as an adverse prognostic feature; outcome-specific evidence is not yet curated in this sample (recorded studies document PTEN alteration in prostate cancer).
+CBM-044,prostate,diagnostic,curated_literature,AMACR overexpression distinguishes malignant from benign prostate tissue.
+CBM-045,prostate,diagnostic,curated_literature,SPOP mutation defines a distinct molecular subclass of prostate cancer.
+CBM-046,prostate,predictive,curated_literature,CDK12 biallelic loss defines an immunogenic subclass; potential response to immune-checkpoint blockade is hypothesis-generating.
+CBM-047,prostate,predictive,curated_literature,ATM alterations were included in DNA-repair-defect cohorts treated with PARP inhibition.
+CBM-047,prostate,risk,curated_literature,Germline ATM variants are among inherited DNA-repair mutations found in metastatic prostate cancer.

@@ -1,0 +1,15 @@
+pathway_database,external_identifier,pathway_name,description,source_url
+KEGG,hsa04012,ErbB signaling pathway,EGFR-family receptor signalling to MAPK and PI3K-Akt cascades.,https://www.kegg.jp/pathway/hsa04012
+KEGG,hsa04010,MAPK signaling pathway,Mitogen-activated protein kinase cascades.,https://www.kegg.jp/pathway/hsa04010
+KEGG,hsa04151,PI3K-Akt signaling pathway,Phosphatidylinositol 3-kinase / Akt signalling.,https://www.kegg.jp/pathway/hsa04151
+KEGG,hsa04115,p53 signaling pathway,p53-mediated responses to DNA damage and stress.,https://www.kegg.jp/pathway/hsa04115
+KEGG,hsa03440,Homologous recombination,Repair of DNA double-strand breaks by homologous recombination.,https://www.kegg.jp/pathway/hsa03440
+KEGG,hsa03430,Mismatch repair,Correction of base mismatches and insertion/deletion loops.,https://www.kegg.jp/pathway/hsa03430
+KEGG,hsa04310,Wnt signaling pathway,Canonical and non-canonical Wnt signalling.,https://www.kegg.jp/pathway/hsa04310
+KEGG,hsa04915,Estrogen signaling pathway,Nuclear and membrane-initiated oestrogen signalling.,https://www.kegg.jp/pathway/hsa04915
+KEGG,hsa05235,PD-L1 expression and PD-1 checkpoint pathway in cancer,Regulation of PD-L1 expression and PD-1 immune checkpoint signalling.,https://www.kegg.jp/pathway/hsa05235
+KEGG,hsa04520,Adherens junction,Cadherin-based cell-cell adhesion.,https://www.kegg.jp/pathway/hsa04520
+KEGG,hsa05224,Breast cancer,KEGG disease pathway map for breast cancer.,https://www.kegg.jp/pathway/hsa05224
+KEGG,hsa05223,Non-small cell lung cancer,KEGG disease pathway map for non-small cell lung cancer.,https://www.kegg.jp/pathway/hsa05223
+KEGG,hsa05210,Colorectal cancer,KEGG disease pathway map for colorectal cancer.,https://www.kegg.jp/pathway/hsa05210
+KEGG,hsa05215,Prostate cancer,KEGG disease pathway map for prostate cancer.,https://www.kegg.jp/pathway/hsa05215
