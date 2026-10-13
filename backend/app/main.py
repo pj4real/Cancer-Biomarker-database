@@ -1,10 +1,11 @@
 """CancerBioMap FastAPI application."""
 import logging
+from pathlib import Path
 
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
+from fastapi.responses import FileResponse, JSONResponse
 from sqlalchemy import text
 
 from app.config import get_settings
@@ -65,3 +66,19 @@ def health():
 app.include_router(catalog.router)
 app.include_router(evidence.router)
 app.include_router(analysis.router)
+
+
+# Single-service deployment: when the React build exists (npm run build), serve it from the same origin so
+# the frontend's relative /api calls need no proxy or CORS. In local development Vite serves the UI instead.
+FRONTEND_DIST = (Path(__file__).resolve().parents[2] / "frontend" / "dist").resolve()
+
+if (FRONTEND_DIST / "index.html").is_file():
+    @app.get("/{full_path:path}", include_in_schema=False)
+    def frontend(full_path: str):
+        if full_path == "api" or full_path.startswith("api/"):
+            raise HTTPException(status_code=404, detail={"code": "not_found", "message": "Unknown API path"})
+        candidate = (FRONTEND_DIST / full_path).resolve()
+        if full_path and candidate.is_file() and candidate.is_relative_to(FRONTEND_DIST):
+            return FileResponse(candidate)
+        # Client-side routes (for example /biomarkers/22) all load the SPA shell.
+        return FileResponse(FRONTEND_DIST / "index.html")
